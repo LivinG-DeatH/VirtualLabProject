@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> MOUNTINGS OF BARR BODY FROM BUCCAL EPITHELIUM </title>
+	<meta charset=utf-8>
+</head>
+
+<body>
+	<h3>
+	<center>
+		PRACTICAL 1
+	</center>
+	</h3>
+	<br/>
+
+	<b>
+		AIM:
+	</b>
+	</br></br>
+		To mount and study the Barr body or sex chromatin in the somatic cell of a female.
+	</br></br><br/>
+	<b>
+		BACKGROUND INFORMATION:
+	</b>
+	<p style="text-align: justify;">
+		Barr and Bertram (1949) observed a condensed body in the nucleus of cells of female cats, which was not nucleolus, whereas male had none. They referred this body as sex chromatin that has been known as Barr body. Lyon suggested that this Barr body is an inactive X – chromosome, which becomes tightly coiled into heterochromatin. A number of evidences support Lyon hypothesis that only one X – chromosome is active in any cell. Some of the evidences can be listed as follows:
+		</br>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		(1) XXY males show a Barr body, XO females have none whereas XXX female have two Barr bodies.</br>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		(2) Persons with abnormal number of X - chromosomes have Barr body one less than the number of X - chromosome per cell.</br>
+
+		&nbsp;&nbsp;&nbsp;&nbsp;
+		(3) Any one X – chromosome becomes inactive at random, and once inactivated all the cells derived from it will maintain the same inactive X – chromosome.</br>
+
+		This inactivation of X- chromosome occurs when two X – chromosomes are present (inactivation of X - chromosome will not take place in males as they have only one X - chromosome). It is known in human development that on about the 16th day of embryonic life an X - chromosome is inactivated. Afterward that X- chromosome becomes a Barr body, which lies along the inside of the nuclear envelop in cells of females. Most of the genes of the X – chromosome that
+		forms the Barr body are not expressed. However, small regions of that chromosome remain active.
+	</p>
+	<br/>
+
+
+	<b>
+		REQUIREMENTS:
+	</b>
+	<br/><br/>
+		1) 1% Geimsa stain,<br/>
+		2) 70% Alcohol,<br/>
+		3) Cotton bud or sterile cotton swab,<br/>
+		4) Slides,<br/>
+		5) Coverslip,<br/>
+		6) 0.9% Saline,<br/>
+		7) Microscope, etc.<br/>
+	<br/><br/>
+
+	<b>
+		PROCEDURE:
+	</b>
+	<br/><br/>
+	<p align="JUSTIFY">
+		1) Ask a girl student to rinse and flush the mouth several times with 	tap water to get rid of food
+		particles sticking to the cheek pouch if any.<br/>
+		2) Take a sterile cotton bud and dip it in 0.9 percent saline to moisten it.<br/>
+		3) Rub the cotton bud several times on the inside wall of the cheek pouch.<br/>
+		4) Smear the cotton bud on a clean dry slide and allow the smear to dry.<br/>
+		5) Fix the smear with 70% alcohol.<br/>
+		6) Stain the smear with Giamsa for 10 min.<br/>
+		7) Wash off the excess of stain with water.<br/>
+		8) Place a coverslip and observe under high power of the microscope.
+	</p>
+	<br/>
+
+	<b>
+		OBSERVATION AND RESULT:
+	</b>
+	<br/><br/>
+	<p align="LEFT">
+		Barr body stained as bluish-green and is found attached to the nuclear envelope.
+	</p>
+</body>
